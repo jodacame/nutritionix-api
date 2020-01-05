@@ -49,7 +49,7 @@ const nutritionix = require("nutritionix-api");
 
 nutritionix.init(YOUR_APP_ID,YOUR_API_KEY);
 
-nutritionix.utils.utils().then(result => {
+nutritionix.utils.nutrients().then(result => {
     console.log(result);
 });
 ````
