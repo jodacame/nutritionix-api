@@ -1,0 +1,17 @@
+{
+  "name": "nutritionix-api",
+  "version": "1.0.1",
+  "description": "Wrapper for the Nutritionix API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodacame/nutritionix-api.git"
+  },
+  "keywords": ["nutrition","nutritionix","food","facts","food information"],
+  "author": "Jose Daniel Canchila <jodacame>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jodacame/nutritionix-api/issues"
+  },
+  "homepage": "https://github.com/jodacame/nutritionix-api#readme"
+}
