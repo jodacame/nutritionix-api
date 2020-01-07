@@ -1,6 +1,6 @@
 {
   "name": "nutritionix-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wrapper for the Nutritionix API",
   "main": "index.js",
   "repository": {
