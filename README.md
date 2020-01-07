@@ -34,7 +34,7 @@ const nutritionix = require("nutritionix-api");
 
 nutritionix.init(YOUR_APP_ID,YOUR_API_KEY);
 
-nutritionix.natural.query('Apple').then(result => {
+nutritionix.natural.search('Apple').then(result => {
     console.log(result);
 });
 ````
